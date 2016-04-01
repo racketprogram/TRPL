@@ -1,1 +1,1 @@
-Hi there! Welcome to The Ruby Programming Language!
+Welcome to The Ruby Programming Language.
